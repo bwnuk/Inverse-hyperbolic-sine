@@ -1,0 +1,102 @@
+
+-0.900000 	    -0.808867   	    -0.808844 	 20 
+Zosta³a osiagnieta liczba do ktorej ma liczcy!
+
+-0.847059 	    -0.768995   	    -0.768993 	 20 
+Zosta³a osiagnieta liczba do ktorej ma liczcy!
+
+-0.794118 	    -0.728068   	    -0.728068 	 18 
+Zosta³a osiagnieta dokladnosc!
+
+-0.741176 	    -0.686073   	    -0.686073 	 14 
+Zosta³a osiagnieta dokladnosc!
+
+-0.688235 	    -0.643002   	    -0.643002 	 12 
+Zosta³a osiagnieta dokladnosc!
+
+-0.635294 	    -0.598853   	    -0.598852 	 10 
+Zosta³a osiagnieta dokladnosc!
+
+-0.582353 	    -0.553634   	    -0.553634 	 9 
+Zosta³a osiagnieta dokladnosc!
+
+-0.529412 	    -0.507363   	    -0.507362 	 8 
+Zosta³a osiagnieta dokladnosc!
+
+-0.476471 	    -0.460068   	    -0.460068 	 7 
+Zosta³a osiagnieta dokladnosc!
+
+-0.423529 	    -0.411792   	    -0.411792 	 6 
+Zosta³a osiagnieta dokladnosc!
+
+-0.370588 	    -0.362591   	    -0.362591 	 5 
+Zosta³a osiagnieta dokladnosc!
+
+-0.317647 	    -0.312534   	    -0.312534 	 5 
+Zosta³a osiagnieta dokladnosc!
+
+-0.264706 	    -0.261708   	    -0.261708 	 4 
+Zosta³a osiagnieta dokladnosc!
+
+-0.211765 	    -0.210213   	    -0.210214 	 3 
+Zosta³a osiagnieta dokladnosc!
+
+-0.158824 	    -0.158163   	    -0.158163 	 3 
+Zosta³a osiagnieta dokladnosc!
+
+-0.105882 	    -0.105686   	    -0.105685 	 2 
+Zosta³a osiagnieta dokladnosc!
+
+-0.052941 	    -0.052916   	    -0.052916 	 2 
+Zosta³a osiagnieta dokladnosc!
+
+0.000000 	     0.000000   	     0.000000 	 0 
+Zosta³a osiagnieta dokladnosc!
+
+0.052941 	     0.052916   	     0.052916 	 2 
+Zosta³a osiagnieta dokladnosc!
+
+0.105882 	     0.105686   	     0.105685 	 2 
+Zosta³a osiagnieta dokladnosc!
+
+0.158824 	     0.158163   	     0.158163 	 3 
+Zosta³a osiagnieta dokladnosc!
+
+0.211765 	     0.210213   	     0.210214 	 3 
+Zosta³a osiagnieta dokladnosc!
+
+0.264706 	     0.261708   	     0.261708 	 4 
+Zosta³a osiagnieta dokladnosc!
+
+0.317647 	     0.312534   	     0.312534 	 5 
+Zosta³a osiagnieta dokladnosc!
+
+0.370588 	     0.362591   	     0.362591 	 5 
+Zosta³a osiagnieta dokladnosc!
+
+0.423529 	     0.411792   	     0.411792 	 6 
+Zosta³a osiagnieta dokladnosc!
+
+0.476471 	     0.460068   	     0.460068 	 7 
+Zosta³a osiagnieta dokladnosc!
+
+0.529412 	     0.507363   	     0.507362 	 8 
+Zosta³a osiagnieta dokladnosc!
+
+0.582353 	     0.553634   	     0.553634 	 9 
+Zosta³a osiagnieta dokladnosc!
+
+0.635294 	     0.598853   	     0.598852 	 10 
+Zosta³a osiagnieta dokladnosc!
+
+0.688235 	     0.643002   	     0.643002 	 12 
+Zosta³a osiagnieta dokladnosc!
+
+0.741176 	     0.686073   	     0.686073 	 14 
+Zosta³a osiagnieta dokladnosc!
+
+0.794118 	     0.728068   	     0.728068 	 18 
+Zosta³a osiagnieta dokladnosc!
+
+0.847059 	     0.768995   	     0.768993 	 20 
+Zosta³a osiagnieta liczba do ktorej ma liczcy!
